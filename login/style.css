@@ -1,0 +1,26 @@
+body {
+    background-color: #f6f6f1;
+}
+
+div#container {
+    background-color: cadetblue;
+    width: 30%;
+    min-height: 300px;
+    margin: 200px auto;
+}
+input{
+	margin: 10px 120px;
+	 padding: 8px;
+    width: 200px;
+}
+input[type="Email"] {
+    margin-top: 70px;
+    padding: 8px;
+    width: 200px;
+}
+}
+.error {
+
+    margin-left: 100px;
+    padding-top: 10px;
+}
